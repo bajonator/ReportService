@@ -1,0 +1,34 @@
+﻿Instalowanie zestawu 'F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.InstallLog
+   assemblypath = F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.exe
+Trwa instalowanie usługi ReportService...
+Trwa tworzenie źródła EventLog ReportService w dzienniku Application...
+Wycofywanie zestawu 'F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.InstallLog
+   assemblypath = F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.exe
+Przywracanie dziennika zdarzeń do poprzedniego stanu dla źródła ReportService.
+Instalowanie zestawu 'F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.InstallLog
+   assemblypath = F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.exe
+Trwa instalowanie usługi ReportService...
+Usługa ReportService została zainstalowana pomyślnie.
+Trwa tworzenie źródła EventLog ReportService w dzienniku Application...
+Zatwierdzanie zestawu 'F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.InstallLog
+   assemblypath = F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.exe
+Odinstalowywanie zestawu 'F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.exe'.
+Uwzględnione parametry to:
+   logtoconsole = 
+   logfile = F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.InstallLog
+   assemblypath = F:\programy moje\Kurs_Akademia.NET\ReportService\KlientExe\ReportService.exe
+Usuwanie źródła EventLog ReportService.
+Trwa usuwanie usługi ReportService z systemu...
+Usługa ReportService została pomyślnie usunięta z systemu.
